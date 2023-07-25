@@ -1,0 +1,20 @@
+{
+  "name": "8-all-about-package.json-file",
+  "version": "1.0.0",
+  "description": "this is package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tkabir3066"
+  ],
+  "author": "Tutul Kabir",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "react-datepicker": "^4.16.0"
+  }
+}
